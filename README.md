@@ -1,5 +1,9 @@
 # sku-manage
 
+![NPM](https://nodei.co/npm/sku-manager.png?downloads=true&downloadRank=true&stars=true)
+
+![img](https://img.shields.io/npm/v/sku-manager.svg) ![img](https://img.shields.io/bundlephobia/minzip/sku-manager.svg) ![img](https://img.shields.io/npm/dt/sku-manager.svg) ![img](https://img.shields.io/github/license/accforgit/sku-manager.svg)
+
 电商 sku选择组件，相关文章 [两万字长文-电商sku组合查询状态细究与实现](https://juejin.im/post/5d897919f265da03a53a775c)
 
 ![img](img/1.png)
