@@ -1,0 +1,32 @@
+{
+  "name": "sku-manager",
+  "version": "1.0.1",
+  "description": "电商 sku选择组件",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/accforgit/sku-manager.git"
+  },
+  "author": {
+    "name": "kother1",
+    "email": "kother@foxmail.com",
+    "url": "https://github.com/accforgit"
+  },
+  "license": "MIT",
+  "keywords": [
+    "sku",
+    "spu"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^3.6.3"
+  },
+  "private": false,
+  "bugs": {
+    "url": "https://github.com/accforgit/sku-manager/issues"
+  },
+  "homepage": "https://github.com/accforgit/sku-manager#readme"
+}
